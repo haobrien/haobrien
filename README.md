@@ -16,8 +16,8 @@ I'm an aspiring front-end developer currently looking for employment in the Dall
 ### 📈 My GitHub Stats
 
 <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haobrien&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haobrien&layout=compact">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=haobrien&show_icons=true">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haobrien&layout=compact">
 </p>
 
 
