@@ -1,4 +1,4 @@
-## Howdy there! I'm Heather OBrien <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Howdy there! I'm Heather <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/haobrientx)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://haobrien.com)
@@ -16,8 +16,8 @@ I'm an aspiring front-end developer currently looking for employment in the Dall
 ### 📈 My GitHub Stats
 
 <p>
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=haobrien&show_icons=true">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haobrien&layout=compact">
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haobrien&show_icons=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haobrien&layout=compact">
 </p>
 
 
