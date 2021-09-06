@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://haobrien.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hazelhob/)
 
-I'm an aspiring front-end developer currently looking for employment in the Dallas area. I graduated in 2013 with a BS in Computer Science, and have always had a passion for web development and creating positive user experiences.
+I'm a front-end developer currently looking for employment in the Dallas area. I graduated in 2013 with a BS in Computer Science, and have always had a passion for web development and creating positive user experiences.
 
 
 ### 🧡 Some passions and hobbies of mine are...
