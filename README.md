@@ -1,15 +1,14 @@
-## Howdy there! I'm Heather <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there! I'm Heather <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/haobrientx)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://haobrien.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hazelhob/)
 
-I'm a front-end developer currently looking for employment in the Dallas area. I graduated in 2013 with a BS in Computer Science, and have always had a passion for web development and creating positive user experiences.
-
+I'm a Software Engineer at Capital One. I'm a full-stack developer, though my passion truly lies with front-end development and creating great user experiences through code.
 
 ### 🧡 Some passions and hobbies of mine are...
 - Web development
-- Fostering Great Pyrenees floofers 🐶 
+- Giant dogs 🐶 
 - Gardening & landscaping
 - Home improvement
 
