@@ -12,6 +12,16 @@ Currently working at Capital One as a software engineer. I'm a full-stack develo
 - Gardening & landscaping
 - Home improvement
 
+
+
+### 🏆 My Certifications 
+
+<a target="_blank" href="https://www.credly.com/badges/b39fbaa6-2f42-412b-953b-41c907056f83/public_url">
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200">
+</a>
+
+
+
 ### 📈 My GitHub Stats
 
 <p>
