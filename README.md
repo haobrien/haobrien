@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://haobrien.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hazelhob/)
 
-I'm a Software Engineer at Capital One. I'm a full-stack developer, though my passion truly lies with front-end development and creating great user experiences through code.
+Currently working at Capital One as a software engineer. I'm a full-stack developer, though my focus lies in front-end development and creating great user experiences.
 
 ### 🧡 Some passions and hobbies of mine are...
 - Web development
