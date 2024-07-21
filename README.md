@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/haobrientx)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hazelhob/)
 
-I currently work at Capital One as a software engineer for Navigator Platform delivering car dealership solutions. My coding focus lies in front-end development, creating microfrontends with great user experiences.
+I currently work at Capital One as a software engineer for [Navigator Platform](https://www.capitalone.com/auto-financing/dealer/) delivering solutions for dealers. My coding focus lies in front-end development, creating microfrontends with great user experiences.
 
 ### 🧡 Some passions and hobbies of mine are...
 - Web development
@@ -12,6 +12,14 @@ I currently work at Capital One as a software engineer for Navigator Platform de
 - Gardening & landscaping
 - Home improvement
 - Bouldering
+
+
+
+### 🤖 A few silly GitHub apps I've coded in my day..
+- [Dad Jokes](https://haobrien.github.io/dad-jokes/)
+- [Themed Color Picker](https://haobrien.github.io/color-palette-app/#/)
+- [Lights Out](https://haobrien.github.io/lights-out/)
+- [To-do List](https://haobrien.github.io/todo-list/)
 
 
 
